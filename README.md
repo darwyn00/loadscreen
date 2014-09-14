@@ -1,7 +1,7 @@
 loadscreen
 ==========
 
-Responsive load screen animation implemented with CSS3.
+Responsive load screen animation implemented using CSS3 transitions.
 
 Demo
 ====
